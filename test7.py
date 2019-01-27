@@ -12,8 +12,8 @@ img = cv2.imread(file)
 img = img[1835:1855, 2125:2330]
 h, w = img.shape[:2]
 #图像缩放
-# img2 = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
-# img3 = cv2.resize(img, (w / 2, h / 2), interpolation=cv2.INTER_CUBIC)
+img2 = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+img3 = cv2.resize(img, (w / 2, h / 2), interpolation=cv2.INTER_CUBIC)
 
 # cv2.imwrite(save_path+'t1.png', img)
 # cv2.imwrite(save_path+'t2.png', img2)

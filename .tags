@@ -1,0 +1,218 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+M	.\test14.py	/^M = cv2.moments(cnt)$/;"	v
+M	.\test8.py	/^M = cv2.getAffineTransform(pts1, pts2)$/;"	v
+M	.\test8.py	/^M = cv2.getPerspectiveTransform(pts1, pts2)$/;"	v
+M	.\test8.py	/^M = cv2.getRotationMatrix2D((w\/2, h\/2), 45, 1.)$/;"	v
+a	.\test16.py	/^		a = np.cos(theta)$/;"	v
+area	.\test14.py	/^area = M['m00']$/;"	v
+area	.\test14.py	/^area = cv2.contourArea(cnt)$/;"	v
+b	.\test16.py	/^		b = np.sin(theta)$/;"	v
+b	.\test5.py	/^b = img1[:, :, 0]$/;"	v
+bottom_right	.\test15.py	/^	bottom_right = (top_left[0] + w, top_left[1] + h)$/;"	v
+cardRotate	.\test19.py	/^def cardRotate(img, angle=180):$/;"	f
+cnt	.\test14.py	/^cnt = contours[54]$/;"	v
+cnt2	.\test14.py	/^cnt2 = contours[55]$/;"	v
+cv2	.\test.py	/^import cv2$/;"	i
+cv2	.\test10.py	/^import cv2$/;"	i
+cv2	.\test11.py	/^import cv2$/;"	i
+cv2	.\test12.py	/^import cv2$/;"	i
+cv2	.\test13.py	/^import cv2$/;"	i
+cv2	.\test14.py	/^import cv2$/;"	i
+cv2	.\test15.py	/^import cv2$/;"	i
+cv2	.\test16.py	/^import cv2$/;"	i
+cv2	.\test17.py	/^import cv2$/;"	i
+cv2	.\test18.py	/^import cv2$/;"	i
+cv2	.\test19.py	/^import cv2$/;"	i
+cv2	.\test2.py	/^import cv2$/;"	i
+cv2	.\test3.py	/^import cv2$/;"	i
+cv2	.\test4.py	/^import cv2$/;"	i
+cv2	.\test5.py	/^import cv2$/;"	i
+cv2	.\test6.py	/^import cv2$/;"	i
+cv2	.\test7.py	/^import cv2$/;"	i
+cv2	.\test8.py	/^import cv2$/;"	i
+cv2	.\test9.py	/^import cv2$/;"	i
+cv2	.\test_barcode.py	/^import cv2  $/;"	i
+cx	.\test14.py	/^cx = int(M['m10'] \/ M['m00'])$/;"	v
+cy	.\test14.py	/^cy = int(M['m01'] \/ M['m00'])$/;"	v
+dist	.\test14.py	/^dist = cv2.pointPolygonTest(cnt, (50,50), True)$/;"	v
+dist_transform	.\test17.py	/^dist_transform = cv2.distanceTransform(opening, 1, 5)$/;"	v
+drawCircle	.\test2.py	/^def drawCircle(event, x, y, flags, param):$/;"	f
+edges	.\test16.py	/^edges = cv2.Canny(gray, 50, 150, 3)$/;"	v
+element	.\test10.py	/^element = cv2.getStructuringElement(cv2.MORPH_RECT, (9, 9))$/;"	v
+file	.\test10.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\xtx.png'$/;"	v
+file	.\test11.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test12.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test13.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test14.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test3.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test.png'$/;"	v
+file	.\test4.py	/^file = 'imgs\/test.png'$/;"	v
+file	.\test5.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test6.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test7.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\code\\\\2018-05-17-11-11-14-5afcf2d2c009a.jpg'$/;"	v
+file	.\test8.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test9.py	/^file = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\2.jpg'$/;"	v
+file	.\test_barcode.py	/^file = 'imgs\/test.png'$/;"	v
+file_path	.\test15.py	/^file_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\'$/;"	v
+file_path	.\test16.py	/^file_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\'$/;"	v
+file_path	.\test17.py	/^file_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\'$/;"	v
+file_path	.\test18.py	/^file_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\'$/;"	v
+file_path	.\test19.py	/^file_path = 'imgs\/'$/;"	v
+g	.\test5.py	/^g = img1[:, :, 1]$/;"	v
+g	.\test6.py	/^g = np.uint8([[[0, 255, 0]]])$/;"	v
+get_ret	.\test19.py	/^def get_ret(f):$/;"	f
+gray	.\test16.py	/^gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	v
+gray	.\test17.py	/^gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	v
+gray	.\test18.py	/^gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	v
+gray1	.\test19.py	/^gray1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)$/;"	v
+hsv_green	.\test6.py	/^hsv_green = cv2.cvtColor(g, cv2.COLOR_BGR2HSV)$/;"	v
+img	.\test.py	/^img = np.zeros((512,512,3), np.uint8)$/;"	v
+img	.\test10.py	/^img = cv2.imread(file, 0)$/;"	v
+img	.\test11.py	/^img = cv2.imread(file)$/;"	v
+img	.\test12.py	/^img = cv2.imread(file)$/;"	v
+img	.\test13.py	/^img = cv2.imread(file)$/;"	v
+img	.\test14.py	/^img = cv2.imread(file)$/;"	v
+img	.\test15.py	/^	img = img1.copy()$/;"	v
+img	.\test15.py	/^img = cv2.cvtColor(imgy, cv2.COLOR_BGR2GRAY)$/;"	v
+img	.\test16.py	/^img = cv2.imread(file_path+'page1.png')$/;"	v
+img	.\test17.py	/^img = cv2.imread(file_path+'barcode.png')$/;"	v
+img	.\test18.py	/^img = cv2.imread(file_path+'barcode.png')$/;"	v
+img	.\test2.py	/^img = np.zeros((512, 512, 3), np.uint8)$/;"	v
+img	.\test3.py	/^img = cv2.imread(file)$/;"	v
+img	.\test4.py	/^img = cv2.imread(file)$/;"	v
+img	.\test5.py	/^img = cv2.imread(file)$/;"	v
+img	.\test7.py	/^img = cv2.imread(file)$/;"	v
+img	.\test7.py	/^img = img[1835:1855, 2125:2330]$/;"	v
+img	.\test8.py	/^img = cv2.imread(file)$/;"	v
+img	.\test9.py	/^img = cv2.imread(file)$/;"	v
+img	.\test_barcode.py	/^img = cv2.imread(file)$/;"	v
+img1	.\test.py	/^img1 = cv2.line(img1, (0, 0), (511, 511), (255, 0, 0), 5)#化线会在原图上修改(img, left top, right bottom, color, widths)$/;"	v
+img1	.\test.py	/^img1 = img.copy()$/;"	v
+img1	.\test10.py	/^img1 = cv2.erode(img, kernel, iterations = 1)$/;"	v
+img1	.\test11.py	/^img1 = cv2.Laplacian(img, cv2.CV_64F)$/;"	v
+img1	.\test12.py	/^img1 = cv2.Canny(img, 100, 200)$/;"	v
+img1	.\test13.py	/^img1 = cv2.pyrUp(6)$/;"	v
+img1	.\test14.py	/^img1 = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	v
+img1	.\test15.py	/^img1 = img.copy()$/;"	v
+img1	.\test16.py	/^img1 = img.copy()$/;"	v
+img1	.\test19.py	/^img1 = cv2.imread(file_path+'t1.jpg')$/;"	v
+img1	.\test5.py	/^img1 = img.copy()$/;"	v
+img1	.\test8.py	/^img1 = cv2.warpAffine(img, M, (w, h))$/;"	v
+img1	.\test9.py	/^img1 = cv2.filter2D(img, -1 , kernel)$/;"	v
+img2	.\test.py	/^img2 = cv2.rectangle(img2, (12, 34), (223, 332), (0, 255, 0), 2)#化线会在原图上修改(img, left top, right bottom, color, widths)$/;"	v
+img2	.\test.py	/^img2 = img.copy()$/;"	v
+img2	.\test10.py	/^img2 = cv2.dilate(img, kernel, iterations = 1)$/;"	v
+img2	.\test11.py	/^img2 = cv2.Laplacian(img, -1)$/;"	v
+img2	.\test15.py	/^img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)$/;"	v
+img2	.\test15.py	/^img2 = cv2.imread(file_path+'child.png')$/;"	v
+img2	.\test4.py	/^img2 = cv2.getRectSubPix(img, (300,500), (100,10))$/;"	v
+img2	.\test7.py	/^img2 = cv2.resize(img, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)$/;"	v
+img2	.\test8.py	/^img2 = cv2.warpAffine(img, M, (w, h))$/;"	v
+img2	.\test9.py	/^img2 = cv2.blur(img, (5, 5))$/;"	v
+img2	.\test_barcode.py	/^img2 = cv2.resize(img, (w * 2, h * 2), interpolation=cv2.INTER_CUBIC)$/;"	v
+img3	.\test.py	/^img3 = cv2.circle(img3, (250, 250), 60, (0, 0, 255), -1)#化线会在原图上修改(img, left top, right bottom, color, widths)$/;"	v
+img3	.\test.py	/^img3 = img.copy()$/;"	v
+img3	.\test10.py	/^img3 = cv2.morphologyEx(img, cv2.MORPH_OPEN, kernel)$/;"	v
+img3	.\test11.py	/^img3 = cv2.Sobel(img, cv2.CV_64F, 1, 0, ksize = 5)$/;"	v
+img3	.\test14.py	/^img3 = cv2.drawContours(img, contours, 3, (0, 255, 0), 3)$/;"	v
+img3	.\test7.py	/^img3 = cv2.resize(img, (w \/ 2, h \/ 2), interpolation=cv2.INTER_CUBIC)$/;"	v
+img3	.\test8.py	/^img3 = cv2.warpPerspective(img, M, (400, 250))$/;"	v
+img3	.\test9.py	/^img3 = cv2.GaussianBlur(img, (5, 5), 0)$/;"	v
+img3	.\test_barcode.py	/^img3 = cv2.blur(img,(3, 3))$/;"	v
+img4	.\test.py	/^img4 = cv2.circle(img4, (250, 250), 60, (255, 255, 255), 2)#化线会在原图上修改(img, left top, right bottom, color, widths)$/;"	v
+img4	.\test.py	/^img4 = img.copy()$/;"	v
+img4	.\test10.py	/^img4 = cv2.morphologyEx(img, cv2.MORPH_CLOSE, kernel)$/;"	v
+img4	.\test11.py	/^img4 = cv2.Sobel(img, cv2.CV_64F, 0, 1, ksize = 5)$/;"	v
+img4	.\test9.py	/^img4 = cv2.medianBlur(img, 5)$/;"	v
+img4	.\test_barcode.py	/^img4 = cv2.GaussianBlur(img, (3, 3), 0)$/;"	v
+img5	.\test.py	/^img5 = img.copy()$/;"	v
+img5	.\test10.py	/^img5 = cv2.morphologyEx(img, cv2.MORPH_GRADIENT, kernel)$/;"	v
+img5	.\test11.py	/^img5 = cv2.Sobel(img, cv2.CV_64F, 1, 0, ksize = 5)$/;"	v
+img5	.\test11.py	/^img5 = np.absolute(img5)$/;"	v
+img5	.\test11.py	/^img5 = np.uint8(img5)$/;"	v
+img5	.\test9.py	/^img5 = cv2.bilateralFilter(img, 9, 75, 75)$/;"	v
+img5	.\test_barcode.py	/^img5 = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	v
+img6	.\test.py	/^img6 = img.copy()$/;"	v
+img6	.\test10.py	/^img6 = cv2.morphologyEx(img, cv2.MORPH_TOPHAT, element)$/;"	v
+img7	.\test10.py	/^img7 = cv2.morphologyEx(img, cv2.MORPH_BLACKHAT, element)$/;"	v
+imgs	.\test.py	/^imgs = []$/;"	v
+imgy	.\test15.py	/^imgy = cv2.imread(file_path+'2.jpg')$/;"	v
+k	.\test.py	/^k = 0$/;"	v
+k	.\test15.py	/^k = 0$/;"	v
+k	.\test3.py	/^k = cv2.waitKey(0) & 0xFF$/;"	v
+kernel	.\test10.py	/^kernel = np.ones((5, 5), np.uint8)$/;"	v
+kernel	.\test17.py	/^kernel = np.ones((2,2), np.uint8)$/;"	v
+kernel	.\test9.py	/^kernel = np.ones((5, 5), np.float32) \/ 25$/;"	v
+lines	.\test16.py	/^lines = cv2.HoughLines(edges, 1, np.pi\/180, 800)$/;"	v
+lines	.\test16.py	/^lines = cv2.HoughLinesP(edges, 1, np.pi\/180, 400, minLineLength, maxLineGap)$/;"	v
+math	.\test19.py	/^import math$/;"	i
+maxLineGap	.\test16.py	/^maxLineGap = 10$/;"	v
+method	.\test15.py	/^	method = eval(meth)$/;"	v
+methods	.\test15.py	/^methods = ['cv2.TM_CCOEFF', 'cv2.TM_CCOEFF_NORMED', 'cv2.TM_CCORR', 'cv2.TM_CCORR_NORMED', 'cv2.TM_SQDIFF', 'cv2.TM_SQDIFF_NORMED']$/;"	v
+minLineLength	.\test16.py	/^minLineLength = 100$/;"	v
+np	.\test.py	/^import numpy as np$/;"	i
+np	.\test10.py	/^import numpy as np$/;"	i
+np	.\test11.py	/^import numpy as np$/;"	i
+np	.\test12.py	/^import numpy as np$/;"	i
+np	.\test13.py	/^import numpy as np$/;"	i
+np	.\test14.py	/^import numpy as np$/;"	i
+np	.\test15.py	/^import numpy as np$/;"	i
+np	.\test16.py	/^import numpy as np$/;"	i
+np	.\test17.py	/^import numpy as np$/;"	i
+np	.\test18.py	/^import numpy as np$/;"	i
+np	.\test19.py	/^import numpy as np$/;"	i
+np	.\test2.py	/^import numpy as np$/;"	i
+np	.\test3.py	/^import numpy as np$/;"	i
+np	.\test4.py	/^import numpy as np$/;"	i
+np	.\test5.py	/^import numpy as np$/;"	i
+np	.\test6.py	/^import numpy as np$/;"	i
+np	.\test7.py	/^import numpy as np$/;"	i
+np	.\test8.py	/^import numpy as np$/;"	i
+np	.\test9.py	/^import numpy as np$/;"	i
+np	.\test_barcode.py	/^import numpy as np$/;"	i
+opening	.\test17.py	/^opening = cv2.morphologyEx(thresh, cv2.MORPH_OPEN, kernel, iterations = 2)$/;"	v
+paper_split	.\test19.py	/^def paper_split(self, path):$/;"	f
+perimeter	.\test14.py	/^perimeter = cv2.arcLength(cnt, True)#true指定对象的形状是闭合，false是打开的（一条曲线）$/;"	v
+pts1	.\test8.py	/^pts1 = np.float32([[50, 20], [450, 20], [50, 280], [450, 280]])$/;"	v
+pts1	.\test8.py	/^pts1 = np.float32([[50, 50], [200, 50], [50, 200]])$/;"	v
+pts2	.\test8.py	/^pts2 = np.float32([[0, 0], [400, 0], [0, 250], [400, 250]])$/;"	v
+pts2	.\test8.py	/^pts2 = np.float32([[10, 100], [200, 50], [100, 250]])$/;"	v
+r	.\test5.py	/^r = img1[:, :, 2]$/;"	v
+res	.\test15.py	/^	res = cv2.matchTemplate(img, img2, method)$/;"	v
+ret	.\test14.py	/^ret = cv2.matchShapes(cnt, cnt2, 1, 0.0)$/;"	v
+rotate_about_center	.\test19.py	/^def rotate_about_center(f, angle=180, scale=1.):$/;"	f
+save_path	.\test.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test10.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test11.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test12.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test13.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test14.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test15.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test16.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test17.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test18.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test2.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test3.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test4.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test5.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test6.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test7.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test8.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test9.py	/^save_path = 'D:\\\\opencv\\\\exam_imagick\\\\images\\\\test\\\\'$/;"	v
+save_path	.\test_barcode.py	/^save_path = 'imgs\/test\/'$/;"	v
+sure_bg	.\test17.py	/^sure_bg = cv2.dilate(opening, kernel, iterations = 3)$/;"	v
+sure_fg	.\test17.py	/^sure_fg = np.uint8(sure_fg)$/;"	v
+top_left	.\test15.py	/^		top_left = max_loc$/;"	v
+top_left	.\test15.py	/^		top_left = min_loc$/;"	v
+unknown	.\test17.py	/^unknown = cv2.subtract(sure_bg, sure_fg)$/;"	v
+x0	.\test16.py	/^		x0 = a * rho$/;"	v
+x1	.\test16.py	/^		x1 = int(x0 + 1000 * (-b))$/;"	v
+x2	.\test16.py	/^		x2 = int(x0 - 1000 * (-b))$/;"	v
+y0	.\test16.py	/^		y0 = b * rho$/;"	v
+y1	.\test16.py	/^		y1 = int(y0 + 1000 * (a))$/;"	v
+y2	.\test16.py	/^		y2 = int(y0 - 1000 * (-a))$/;"	v
+zeros	.\test5.py	/^zeros = np.zeros(img.shape[:2], dtype = "uint8")$/;"	v
